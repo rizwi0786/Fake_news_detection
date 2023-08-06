@@ -1,3 +1,5 @@
+# for dataset u can go to 
+https://drive.google.com/drive/folders/1FNqB7mnjNUsLpOTagHfq58H5KPRVSZQ8?usp=sharing
 # Fake_news_detection
 This is a Machine leaarning project for detecting fake news 
 if u will entar a news cotent then it will detect eaither this news is fake or not 
